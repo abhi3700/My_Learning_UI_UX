@@ -17,5 +17,8 @@ Learn to design layouts for Mobile, Web.
 * compress pdf to specific size - https://miniimagesvideos.com/pdf
 * compress jpg to specific size - https://miniimagesvideos.com/
 
+## Conversion
+* Pdf to Word - https://www.pdf2go.com/pdf-to-word
+
 ## Videos, Blogs
 * [__DesignCourse__: From Adobe XD Prototype to HTML, CSS & JS - Making an Animated Mega Menu](https://www.youtube.com/watch?v=4G9c5swUyOc)
