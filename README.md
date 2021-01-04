@@ -19,6 +19,7 @@ Learn to design layouts for Mobile, Web.
 
 ## Conversion
 * Pdf to Word - https://www.pdf2go.com/pdf-to-word
+* Jpg to PDF - https://smallpdf.com/jpg-to-pdf
 
 ## Videos, Blogs
 * [__DesignCourse__: From Adobe XD Prototype to HTML, CSS & JS - Making an Animated Mega Menu](https://www.youtube.com/watch?v=4G9c5swUyOc)
