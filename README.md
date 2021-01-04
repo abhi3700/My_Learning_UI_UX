@@ -14,7 +14,9 @@ Learn to design layouts for Mobile, Web.
 * [Colors](https://www.materialpalette.com/colors)
 
 ## Compress documents
-* compress pdf to specific size - https://miniimagesvideos.com/pdf
+* compress pdf to specific size 
+  - https://miniimagesvideos.com/pdf
+  - https://smallpdf.com/compress-pdf
 * compress jpg to specific size - https://miniimagesvideos.com/
 
 ## Conversion
