@@ -9,6 +9,7 @@ Learn to design layouts for Mobile, Web.
 * [Unsplash](https://unsplash.com/) - Free background wallpaper available.
 * [Material icon generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html)
 * [Material Design icons by Google](https://material.io/tools/icons/?style=baseline)
+* [Material Design Color by Google](https://material-ui.com/customization/color/)
 * [Palette](https://www.materialpalette.com/)
 * [Icons](https://www.materialpalette.com/icons)
 * [Colors](https://www.materialpalette.com/colors)
