@@ -7,6 +7,7 @@ Learn to design layouts for Mobile, Web.
 * [x] MS PowerPoint
 * [x] FreshDiagram
 * [x] MS Whiteboard using Pen Tablet
+* [x] [Code Beautify](https://carbon.now.sh/)
 
 ## Resources
 * [Unsplash](https://unsplash.com/) - Free background wallpaper available.
