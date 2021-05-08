@@ -9,6 +9,7 @@ Learn to design layouts for Mobile, Web.
 * [x] MS Whiteboard using Pen Tablet
 * [x] [Code Beautify](https://carbon.now.sh/)
 * [x] [Inkscape](https://inkscape.org/release/inkscape-1.0.2/windows/64-bit/exe/dl/) - for vector art
+* [x] [PIXLR BG](https://pixlr.com/remove-background/) - remove backgrounds from even the hardest objects, like people, cars, clothes and more.
 
 ## Resources
 * [Unsplash](https://unsplash.com/) - Free background wallpaper available.
