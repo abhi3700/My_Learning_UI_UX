@@ -10,6 +10,7 @@ Learn to design layouts for Mobile, Web.
 * [x] [Code Beautify](https://carbon.now.sh/)
 * [x] [Inkscape](https://inkscape.org/release/inkscape-1.0.2/windows/64-bit/exe/dl/) - for vector art
 * [x] [PIXLR BG](https://pixlr.com/remove-background/) - remove backgrounds from even the hardest objects, like people, cars, clothes and more.
+* [x] [Github Resume](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 
 ## Resources
 * [Unsplash](https://unsplash.com/) - Free background wallpaper available.
