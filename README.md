@@ -2,17 +2,21 @@
 Learn to design layouts for Mobile, Web.
 
 ## Tools
+* [x] [Penpot](https://design.penpot.app/) 🆓 ✅
 * [x] Adobe xD
 * [x] Adobe PhotoShop CS 6
-* [x] MS PowerPoint
-* [x] FreshDiagram
+* [x] MS PowerPoint ✅
+* [x] FreshDiagram (on windows)
 * [x] MS Whiteboard using Pen Tablet
-* [x] [Code Beautify](https://carbon.now.sh/)
+* [x] [Miro: Manage your work & among employees](https://miro.com/apps/) (alternative: Clickup)
+* [x] [Clickup](https://app.clickup.com/) ✅
+* [x] [Code Beautify](https://carbon.now.sh/) ✅
 * [x] [Inkscape](https://inkscape.org/release/inkscape-1.0.2/windows/64-bit/exe/dl/) - for vector art
 * [x] [PIXLR BG](https://pixlr.com/remove-background/) - remove backgrounds from even the hardest objects, like people, cars, clothes and more.
-* [x] [Github Resume](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
-* [x] [Miro: Manage your work & among employees](https://miro.com/apps/)
-* [x] Color palette & picker from Mac store: Paletter
+* [x] [Github Resume](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) ✅
+* [x] Color palette & picker from Mac store: Paletter (alternative is available on VSCode packages) ✅
+
+> ✅: currently used as of 19-Oct-2022
 
 ## Resources
 * [Unsplash](https://unsplash.com/) - Free background wallpaper available.
