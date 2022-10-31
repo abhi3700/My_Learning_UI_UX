@@ -1,5 +1,5 @@
-# My_Learning_UI_UX
-Learn to design layouts for Mobile, Web.
+# UI/UX tools
+Relevant tools for Design, Presentation, Notes, Planning, Content Creation.
 
 ## Tools
 * [x] [Penpot](https://design.penpot.app/) 🆓 ✅
@@ -10,6 +10,7 @@ Learn to design layouts for Mobile, Web.
 * [x] MS Whiteboard using Pen Tablet
 * [x] [Miro: Manage your work & among employees](https://miro.com/apps/) (alternative: Clickup)
 * [x] [Clickup](https://app.clickup.com/) ✅
+  - Jira, Miro, Notion merged together.
 * [x] [Code Beautify](https://carbon.now.sh/) ✅
 * [x] [Inkscape](https://inkscape.org/release/inkscape-1.0.2/windows/64-bit/exe/dl/) - for vector art
 * [x] [PIXLR BG](https://pixlr.com/remove-background/) - remove backgrounds from even the hardest objects, like people, cars, clothes and more.
